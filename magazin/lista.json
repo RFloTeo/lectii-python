@@ -1,0 +1,22 @@
+[
+  {
+    "nume": "mere",
+    "pret": 2.5,
+    "cantitate": 3
+  },
+  {
+    "nume": "pâine",
+    "pret": 1.2,
+    "cantitate": 1
+  },
+  {
+    "nume": "lapte",
+    "pret": 1.5,
+    "cantitate": 2
+  },
+  {
+    "nume": "inghetata",
+    "pret": 1.7,
+    "cantitate": 5
+  }
+]
