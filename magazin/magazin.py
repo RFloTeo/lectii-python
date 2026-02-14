@@ -1,3 +1,6 @@
+# Nu uita!
+# Tot ce e dupa un diez (#) e comentariu
+# Comentariile nu sunt executate, nu trebuie copiate daca scrii propriul cod
 import json # necesar pentru a lucra cu json
 
 f = open('lista.json') # deschidem fisier pentru citire
